@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "spotifyworker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b08291e0-6db2-4535-86bc-e6e4ccf2c1ce",
+			"database_name": "d1-tempspotifyworkerr"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
